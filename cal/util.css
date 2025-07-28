@@ -1,0 +1,30 @@
+.upper-text{
+    text-align: center;
+}
+.bg-red{
+    background-color: rgb(10, 10, 10);
+    border-radius: 20px;
+}
+.mag-auto{
+    
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+    margin-top: 20px;
+    height: 331px;
+    width: 346px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-c{
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.centre-items{
+     align-items: center;
+}
+

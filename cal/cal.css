@@ -1,0 +1,32 @@
+.button{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    margin: 7px;
+    border: solid 2px black;
+    border-radius: 60px;
+    background-color: beige;
+    cursor: pointer;
+    width: 66px;
+    font-size: large;
+}
+.row{
+    margin: 8px,0;
+}
+.row input{
+    border: 2px solid rgb(31, 31, 31);
+    margin: 3px;
+    padding: 24px 12px;
+    border-radius: 8px;
+    font-size: 25px;
+    color: beige;
+    margin-bottom: 12px;
+    background-color: rgb(48, 48, 48);
+    caret-color: orange;
+}
+.orange{
+    background-color: orange
+}
+.grey{
+    background-color: rgb(153, 153, 153);
+}
