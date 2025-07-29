@@ -1,0 +1,4 @@
+
+.value	👉 Input/textarea/select elements	🔄 Get or set the value user types/selects
+.innerHTML	
+👉 Any HTML element	🧱 Get or set the HTML content (including tags)
